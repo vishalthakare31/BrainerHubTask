@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I3Wu9kXG+ou09r5MHtRBVnYtW1/zJy9dcenEv1CjhEA=",
+  "Source": "BrainerHubTask",
+  "BasePath": "_content/BrainerHubTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
